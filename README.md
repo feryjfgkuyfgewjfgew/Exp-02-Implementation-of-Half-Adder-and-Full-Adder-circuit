@@ -52,7 +52,7 @@ FULL ADDER
 
 ![Screenshot 2023-12-14 085809](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/d4b96ccd-1b96-4cb6-a737-a3af40c37981)
 
-### RTL VIEWER
+#### RTL VIEWER:
 HALF ADDER
 
 ![Screenshot 2023-12-14 085824](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/7d1d947e-6ae8-4c0e-9ba9-36c2445e4bcd)
