@@ -8,9 +8,8 @@ To design a half adder and full adder circuit and verify its truth table in Quar
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
 Theory
-Adders are digital circuits that carry out addition of numbers.
-
-### Half Adder
+Adders are digital circuits that carry out addition of number
+#### procedur
 Half adder is a combinational circuit that performs simple addition of two binary numbers. The input variables designate the augend and addend bits; the output variables produce the sum and carry. It is necessary to specify two output variables because the result may consist of two binary digits.
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
@@ -51,8 +50,8 @@ HALF ADDER
 FULL ADDER
 
 ![Screenshot 2023-12-14 085809](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/d4b96ccd-1b96-4cb6-a737-a3af40c37981)
+#### RTL VIEWVWER
 
-#### RTL VIEWER:
 HALF ADDER
 
 ![Screenshot 2023-12-14 085824](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/7d1d947e-6ae8-4c0e-9ba9-36c2445e4bcd)
@@ -77,6 +76,7 @@ HALF ADDER
 ![Screenshot 2023-12-14 085907](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/680a77d0-3b5b-43c6-a4c8-4ea91ab01b9d)
 
 FULL ADDER
+
 
 ![Screenshot 2023-12-14 085923](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/77ff26c6-645a-40b3-85ad-a25cfc078270)
 
