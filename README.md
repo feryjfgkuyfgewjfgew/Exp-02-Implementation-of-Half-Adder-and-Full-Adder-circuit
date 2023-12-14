@@ -36,36 +36,49 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+```/*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: NARESH.R
 RegisterNumber: 230005559 
-*/
+*/```
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
+HALF ADDER
 
-![](<Screenshot 2023-12-14 085759.png>)
+![Screenshot 2023-12-14 085759](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/2aef20cc-a05c-471d-b460-17438598c692)
 
-![Alt text](<Screenshot 2023-12-14 085809.png>)
+FULL ADDER
+
+![Screenshot 2023-12-14 085809](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/d4b96ccd-1b96-4cb6-a737-a3af40c37981)
+
 ### RTL VIEWER
+HALF ADDER
 
-![Alt text](<Screenshot 2023-12-14 085824.png>)
+![Screenshot 2023-12-14 085824](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/7d1d947e-6ae8-4c0e-9ba9-36c2445e4bcd)
 
-![Alt text](<Screenshot 2023-12-14 085845.png>)
+FULL ADDER
+
+![Screenshot 2023-12-14 085845](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/41aac134-9eab-4220-acc0-fbce6c9e477e)
+
 ### TIMING DIAGRAM
+HALF ADDER
 
-![Alt text](<Screenshot 2023-12-14 085932.png>)
+![Screenshot 2023-12-14 085932](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/7f0de886-78ee-4e2a-9602-50e9ddb81340)
 
-![Alt text](<Screenshot 2023-12-14 085944.png>)
+FULL ADDER
 
+![Screenshot 2023-12-14 085944](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/6028583a-2208-4d25-b8ff-65f539906576)
 
 
 ### TRUTH TABLE 
+HALF ADDER
 
-![Alt text](<Screenshot 2023-12-14 085907.png>)
+![Screenshot 2023-12-14 085907](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/680a77d0-3b5b-43c6-a4c8-4ea91ab01b9d)
 
-![Alt text](<Screenshot 2023-12-14 085923.png>)
+FULL ADDER
+
+![Screenshot 2023-12-14 085923](https://github.com/feryjfgkuyfgewjfgew/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150319377/77ff26c6-645a-40b3-85ad-a25cfc078270)
+
 
 ### Result:
